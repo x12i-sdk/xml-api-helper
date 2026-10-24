@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Thin XML parse/build helpers for Memorix connectors (fast-xml-parser).
-- A Xml integration needs to reuse the capabilities of @x12i/xml-api-helper inside a larger application.
+- Parse an XML response and read a nested value from a connector.
+- Build a supported XML request from structured application data.
 
 ## Links
 
