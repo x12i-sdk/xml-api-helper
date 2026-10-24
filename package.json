@@ -1,0 +1,22 @@
+{
+  "name": "xml-api-helper-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/xml-api-helper: parse an xml response and read a nested value.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/xml-api-helper": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/xml-api-helper.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/xml-api-helper"
+}

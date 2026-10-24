@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/xml-api-helper",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/xml-api-helper",
+  "usageRepository": "https://github.com/x12i-sdk/xml-api-helper",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Parse an XML response and read a nested value",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:32:40.816448+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "d472534882fb1488ff975f1aecb9c0d96448a331fb98e828fff248ad0a9d29d5",
+    "manifestSha256": "e2e3ab8c3c39bb6787b58edb41181cf9242663ed97f250079e96ca17a21a52f1"
+  }
+}
